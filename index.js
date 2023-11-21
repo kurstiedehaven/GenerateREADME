@@ -15,11 +15,6 @@ const questions = [
     },
     {
         type: 'input',
-        name: 'table',
-        message: 'Please provide a table of contents for your project.',
-    },
-    {
-        type: 'input',
         name: 'installation',
         message: 'Please provide installation instructions for your project.',
     },
@@ -76,28 +71,34 @@ function generateREADME(answers) {
         const readmeContent = `
 # ${answers.title}
 
-## Description
+## Table of Contents
+[Description](#description)
+[Installation](#installation)
+[Usage](#usage)
+[Contribution](#contribution)
+[Test](#test)
+[License](#license)
+[Questions](#questions)
+
+## [Description](#description)
 ${answers.description}
 
-## Table of Contents
-${answers.table}
-
-## Installation
+## [Installation](#installation)
 ${answers.installation}
 
-## Usage
+## [Usage](#usage)
 ${answers.usage}
 
-## Contribution
+## [Contribution](#contribution)
 ${answers.contribution}
 
-## Test
+## [Test](#test)
 ${answers.test}
 
-## License
+## [License](#license)
 This project is licensed under the (${licenseBadge}) license.
 
-## Questions
+## [Questions](#questions)
 For additional questions, you can reach me through:
 - GitHub: [${answers.github}](https://github.com/${answers.github})
 - Email: ${answers.email}
