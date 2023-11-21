@@ -72,7 +72,7 @@ function writeToFile(fileName, data) {
 }
 
 function generateREADME(answers) {
-        const licenseBadge = `![Github license](https://img.shields.io/badge/license-${answers.license}-blue.svg)(https://shields.io)`;
+        const licenseBadge = `![license](https://img.shields.io/badge/license-${answers.license}-blue)(https://shields.io)`;
         const readmeContent = `
 # ${answers.title}
 
@@ -95,7 +95,7 @@ ${answers.contribution}
 ${answers.test}
 
 ## License
-This project is licensed under the [${answers.license}](${licenseBadge}) license.
+This project is licensed under the (${licenseBadge}) license.
 
 ## Questions
 For additional questions, you can reach me through:

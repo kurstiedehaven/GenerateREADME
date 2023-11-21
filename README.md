@@ -1,32 +1,32 @@
 
-# no
+# kurstie
 
 ## Description
-no
+says
 
 ## Table of Contents
-no
+that
 
 ## Installation
-no
+this
 
 ## Usage
-no
+will
 
 ## Contribution
-no
+work
 
 ## Test
-no
+yes?
 
 ## License
-This project is licensed under the [Apache]([![license](https://img.shields.io/badge/license-Apache-blue.svg)](https://shields.io)) license.
+This project is licensed under the (![license](https://img.shields.io/badge/license-MIT-blue)(https://shields.io)) license.
 
 ## Questions
 For additional questions, you can reach me through:
-- GitHub: [ku](https://github.com/ku)
-- Email: kurs@gmail.com
+- GitHub: [kurstie](https://github.com/kurstie)
+- Email: kurstie
 
 ---
 
-nop
+no
