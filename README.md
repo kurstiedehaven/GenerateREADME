@@ -14,13 +14,13 @@ no
 no
 
 ## Contribution
-np
+no
 
 ## Test
 no
 
 ## License
-This project is licensed under the [MIT]([![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://shields.io)) license.
+This project is licensed under the [BSD]([![license](https://img.shields.io/badge/license-BSD-blue)](https://shields.io)) license.
 
 ## Questions
 For additional questions, you can reach me through:
@@ -29,4 +29,4 @@ For additional questions, you can reach me through:
 
 ---
 
-via linkedin
+no

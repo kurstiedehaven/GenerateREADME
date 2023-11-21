@@ -72,7 +72,7 @@ function writeToFile(fileName, data) {
 }
 
 function generateREADME(answers) {
-        const licenseBadge = `[![License](https://img.shields.io/badge/license-${answers.license}-blue.svg)](https://shields.io)`;
+        const licenseBadge = `[![license](https://img.shields.io/badge/license-${answers.license}-blue)](https://shields.io)`;
         const readmeContent = `
 # ${answers.title}
 
