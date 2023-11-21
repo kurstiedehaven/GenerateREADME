@@ -5,22 +5,22 @@
 no
 
 ## Table of Contents
-nio
+no
 
 ## Installation
-ni
+no
 
 ## Usage
-ni
+no
 
 ## Contribution
-ni
+np
 
 ## Test
 no
 
 ## License
-This project is licensed under the [GPL](![GitHub license](https://shields.io/badge/license-GPL-blue.svg)) license.
+This project is licensed under the [MIT]([![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://shields.io)) license.
 
 ## Questions
 For additional questions, you can reach me through:
@@ -29,4 +29,4 @@ For additional questions, you can reach me through:
 
 ---
 
-llinkedin
+via linkedin
