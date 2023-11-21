@@ -20,13 +20,13 @@ no
 no
 
 ## License
-This project is licensed under the [BSD]([![license](https://img.shields.io/badge/license-BSD-blue)](https://shields.io)) license.
+This project is licensed under the [Apache]([![license](https://img.shields.io/badge/license-Apache-blue.svg)](https://shields.io)) license.
 
 ## Questions
 For additional questions, you can reach me through:
-- GitHub: [kurstiedehaven](https://github.com/kurstiedehaven)
-- Email: kurstiedehaven@gmail.com
+- GitHub: [ku](https://github.com/ku)
+- Email: kurs@gmail.com
 
 ---
 
-no
+nop
