@@ -72,13 +72,13 @@ function generateREADME(answers) {
 # ${answers.title}
 
 ## Table of Contents
-[Description](#description)
-[Installation](#installation)
-[Usage](#usage)
-[Contribution](#contribution)
-[Test](#test)
-[License](#license)
-[Questions](#questions)
+- [Description](#description)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contribution](#contribution)
+- [Test](#test)
+- [License](#license)
+- [Questions](#questions)
 
 ## [Description](#description)
 ${answers.description}
