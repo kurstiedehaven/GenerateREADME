@@ -19,6 +19,7 @@ When using this program, in your terminal please first run the command npm i. Th
 ## Contribution
 
 Please do not contribute to this. If you wish to make your own changes for your own usage, please clone this project to your own GitHub repository. Do not try to push your changes to this branch.
+I did receive help from my TA - Sean with styling the TOC as well as the code for inserting and displaying License badges.
 
 ## Test
 
