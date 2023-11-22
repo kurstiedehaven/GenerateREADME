@@ -117,7 +117,7 @@ function init() {
     inquirer.prompt(questions)
     .then((answers) => {
         const readmeContent = generateREADME(answers);
-        writeToFile('README.md', readmeContent);
+        writeToFile('testREADME.md', readmeContent);
     });
 }
 // Function call to initialize app
