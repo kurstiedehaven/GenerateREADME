@@ -38,3 +38,6 @@ For additional questions, you can reach me through:
 ---
 
 You can reach me via email or on LinkedIn - Kurstie DeHaven
+
+###Link to Video Demonstration
+https://drive.google.com/file/d/1g8fv8jGghUtIQ-EIs4Pn9DclYPe_LF-_/view?usp=sharing
